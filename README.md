@@ -44,3 +44,8 @@ Utilizar datos de pacientes (edad, peso, presión arterial, etc.) para predecir 
 <summary><b> Datos de proyecto</b></summary>
 La Base de Datos de Diabetes de los Indios Pima será utilizada para este análisis. Esta base de datos es ampliamente reconocida y comúnmente utilizada en proyectos de predicción de diabetes.
 </details>
+
+<details>
+<summary><b> Algoritmos utilizados </b></summary>
+K-Nearest Neighbors, SVM, Random Forest
+</details>
