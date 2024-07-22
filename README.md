@@ -1,7 +1,8 @@
 
 ![LogoUnrn](logounrn.png)
 
-## Proyecto Final Inteligencia Artificial: Predicción de la Aparición de Diabetes Usando Datos de Pacientes con Aprendizaje Automático
+# Proyecto Final Inteligencia Artificial
+## Predicción de la Aparición de Diabetes Usando Datos de Pacientes con Aprendizaje Automático
 
 ---
 
@@ -27,7 +28,10 @@
 <details>
 
 <summary><b>Objetivo de proyecto</b></summary>
-Utilizar datos de pacientes (edad, peso, presión arterial, etc.) para predecir la probabilidad de desarrollar diabetes mediante diversas técnicas de aprendizaje automático. Este proyecto también comparará algoritmos tradicionales con métodos más avanzados para determinar cuál es el más efectivo.
+
+Utilizar datos de pacientes (edad, peso, presión arterial, etc.) para predecir la probabilidad de desarrollar diabetes[^1] mediante diversas técnicas de aprendizaje automático. Este proyecto también comparará los algoritmos: [K-Nearest Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) , [SVM](https://en.wikipedia.org/wiki/Support_vector_machine) y [Random Forest](https://en.wikipedia.org/wiki/Random_forest) para determinar cuál es el más efectivo.
+
+[^1]: [¿Qué es la diabetes? según la Organización Mundial de la Salud](https://www.who.int/news-room/fact-sheets/detail/diabetes)
 </details>
 
 <details>
@@ -42,10 +46,14 @@ Utilizar datos de pacientes (edad, peso, presión arterial, etc.) para predecir 
 
 <details>
 <summary><b> Datos de proyecto</b></summary>
-La Base de Datos de Diabetes de los Indios Pima será utilizada para este análisis. Esta base de datos es ampliamente reconocida y comúnmente utilizada en proyectos de predicción de diabetes.
+  
+La [Base de Datos de Diabetes de Indios Pima](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database) será utilizada para este análisis. Esta base de datos es ampliamente reconocida y comúnmente utilizada en proyectos de predicción de diabetes.
 </details>
 
 <details>
 <summary><b> Algoritmos utilizados </b></summary>
-K-Nearest Neighbors, SVM, Random Forest
+  
+* [K-Nearest Neighbors](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+* [SVM](https://en.wikipedia.org/wiki/Support_vector_machine)
+* [Random Forest](https://en.wikipedia.org/wiki/Random_forest)
 </details>
